@@ -1,0 +1,36 @@
+body {
+    color: white;
+    background-image: url(image/chu.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+#container {
+   font-family: Arial, Helvetica, sans-serif;
+    max-width: 300px;
+    padding: 20px;
+    margin: auto;
+    background-color: black;
+    border-radius: 10px;
+    margin-top: 30px;
+    position: relative;
+}
+
+input {
+    width: 100%;
+    padding: 5px;
+    display: block;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+@media screen and (max-width: 1200px){
+    body{
+        background-size: auto;
+    }
+}
