@@ -1,5 +1,5 @@
 # PROJETO_CHURRASCÔMETRO
-<p align="center">Calcular quanto será necessário de carne, cerveja e refrigerante, baseado no número de adultos, crianças incluindo a condição se vai passar de 6 horas, alterar a equivalência.</p>
+<p align="center">Calcular quanto será necessário de carne, cerveja e refrigerante, baseado no número de adultos, crianças incluindo a condição se vai passar de 6 horas de duração, alterar a equivalência.</p>
 
 <p align="center"><i>"Seja bem-vindo" </i> </p>
 
